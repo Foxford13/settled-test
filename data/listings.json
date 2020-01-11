@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "user_id": 2,
+    "adress": "72 Long Road",
+    "postcode": "SE78ST"
+  },
+  {
+    "id": 2,
+    "user_id": 1,
+    "adress": "72 Borough Road",
+    "postcode": "swe13"
+  },
+  {
+    "id": 3,
+    "user_id": 1,
+    "adress": "42 Hello Road",
+    "postcode": "ner123"
+  }
+]
