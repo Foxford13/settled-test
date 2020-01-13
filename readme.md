@@ -11,7 +11,7 @@ Node.js
 Express 
 Yarn 
 jest
-For db I simply used node.js filesystem. I considered mongodb due to its efficient and flexible queries
+For db I simply used node.js filesystem
 
 
 
